@@ -3,3 +3,5 @@ pydantic
 uvicorn
 boto3
 urllib3
+awscli
+fpdf
